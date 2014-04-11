@@ -61,8 +61,6 @@ MySQL database backups splitted to each database.
 
 Logging - so you always know situation.
 
-Public domain license.
-
 Bugs
 ====
 
